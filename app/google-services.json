@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057266540595",
+    "firebase_url": "https://akb-uas-34df1-default-rtdb.firebaseio.com",
+    "project_id": "akb-uas-34df1",
+    "storage_bucket": "akb-uas-34df1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057266540595:android:08a5be9b4e38c3b6610346",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_10118457_fixxxxxxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057266540595-0na26nulefo7grghe4d0jqgu6m6opasp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAELMf9e27hCs167enYae_qm1BcxceOFRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057266540595-0na26nulefo7grghe4d0jqgu6m6opasp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
